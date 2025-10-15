@@ -22,8 +22,9 @@
 ## 💻 IDEs I use 
   <p>
     <a href="https://developer.android.com/studio"><img src="https://github.com/1sm43l-06/1sm43l-06/blob/main/icons/android_studio_icon.svg" width="80" alt="Android Studio"></a>
-    <a href="https://code.visualstudio.com/"><img src="https://github.com/1sm43l-06/1sm43l-06/blob/main/icons/visual_studio_code_icon.svg" width="80" alt="Visual Studio Code"></a>
     <a href="https://www.jetbrains.com/idea/download/"><img src="https://github.com/1sm43l-06/1sm43l-06/blob/main/icons/intellij_idea_ce_icon.svg" width="80" alt="JetBrains"></a>
+    <a href="https://code.visualstudio.com/"><img src="https://github.com/1sm43l-06/1sm43l-06/blob/main/icons/visual_studio_code_icon.svg" width="80" alt="Visual Studio Code"></a>
+    <a href="https://visualstudio.microsoft.com/es/"><img src="https://github.com/1sm43l-06/1sm43l-06/blob/main/icons/visual_studio_icon.svg" width="80" alt="Visual Studio"></a>
   </p>
 
 ## 🫧 Other skills 
